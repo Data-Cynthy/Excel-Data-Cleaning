@@ -10,7 +10,7 @@ This project focuses on cleaning a small dataset using Microsoft Excel to prepar
 - Improve dataset structure, readability, and usability  
 - Ensure data integrity for reliable analysis
 
-![Before Cleaning](messy_data)
+![Before Cleaning](messy_data.JPG)
 
 ## Data Cleaning Process
 
@@ -57,7 +57,7 @@ The dataset was successfully cleaned and transformed into a structured, consiste
 - Numeric fields validated and suitable for calculations  
 - Improved structure for readability and downstream analysis
 
-![After Cleaning](cleaned_data)
+![After Cleaning](cleaned_data.JPG)
 
 ## Key Learnings
 
